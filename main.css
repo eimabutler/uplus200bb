@@ -21,6 +21,7 @@ body {
 	--overflow: hidden;
 	margin: 4vw;
 	zoom: 89%;
+	text-size-adjust: none;
 }
 
 h1,h2,h3 {
@@ -31,3 +32,6 @@ div.center {
 	text-align: center;
 }
 
+i {
+	font-size: 16px;
+}
