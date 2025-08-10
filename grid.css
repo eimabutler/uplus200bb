@@ -1,14 +1,14 @@
 .work {
 	display: flex inline;
 	flex-wrap: wrap;
-	padding: 0 4px;
+	padding: 0;
 }
 
 /* Create four equal columns that sits next to each other */
 .entry {
 	flex: 25%;
 	--max-width: 25%;
-	padding: 0 4px;
+	padding: 0;
 }
 
 .entry img {
@@ -31,4 +31,3 @@
 		max-width: 50%;
 	}
 }
-
