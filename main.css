@@ -35,3 +35,18 @@ div.center {
 i {
 	font-size: 16px;
 }
+
+/* Default paragraph styling */
+p {
+	font-size: 1ch;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+/* Footer navigation links */
+p[style*="margin-top: 4ch"] a {
+	text-decoration: underline;
+}
